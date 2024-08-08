@@ -1,4 +1,4 @@
-# LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection [[arXiv](https://arxiv.org/abs/2408.02780)]
+# LR-Net: A Lightweight and Robust Network for Infrared Small Target Detection [[Paper/arXiv](https://arxiv.org/abs/2408.02780)]
 ### The network details of LR-Net can be viewed in the project file.  
 ### I'm sorting out the complete code. Welcome to follow my github.
 ### !!! Recently, I am working with Zhaojinmiao (the first author of MSDA-Net) to prepare to open source our series of work, including following:
