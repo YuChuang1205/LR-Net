@@ -8,7 +8,7 @@
 4. MLCL-Net ([[paper](https://doi.org/10.1016/j.infrared.2022.104107)] [[code](https://github.com/YuChuang1205/MLCL-Net)])   
 5. ALCL-Net ([[paper](https://ieeexplore.ieee.org/document/9785618)] [[code](https://github.com/YuChuang1205/ALCL-Net)])  
 6. GGL-Net ([[paper](https://ieeexplore.ieee.org/abstract/document/10230271)] [[code](https://github.com/YuChuang1205/Refined-IRSTD-Scheme-with-Single-Point-Supervision/tree/main/model/GGLNet)])  
-7. MSDA-Net ([[Paper/arXiv](https://arxiv.org/abs/2406.02037)] [[code](https://github.com/YuChuang1205/LR-Net)])    
+7. MSDA-Net ([[Paper/arXiv](https://arxiv.org/abs/2406.02037)] [[code](https://github.com/YuChuang1205/MSDA-Net)])    
 8. LR-Net ([[Paper/arXiv](https://arxiv.org/abs/2408.02780)] [[code](https://github.com/YuChuang1205/LR-Net)])
 
 ### !!! We are actively preparing to organize the complete training/testing code for your convenience. We are preparing a systematic and consistent training/testing framework for our series of work.
