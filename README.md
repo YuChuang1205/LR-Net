@@ -7,7 +7,7 @@
 3. The scheme of our *2nd prize* in the ICPR 2024 Resource-Limited Infrared Small Target Detection Challenge Track 2: Lightweight Infrared Small Target Detection
 4. MLCL-Net ([[paper](https://doi.org/10.1016/j.infrared.2022.104107)] [[code](https://github.com/YuChuang1205/MLCL-Net)])   
 5. ALCL-Net ([[paper](https://ieeexplore.ieee.org/document/9785618)] [[code](https://github.com/YuChuang1205/ALCL-Net)])  
-6. GGL-Net ([[paper](https://ieeexplore.ieee.org/abstract/document/10230271)] [[code](https://github.com/YuChuang1205/Refined-IRSTD-Scheme-with-Single-Point-Supervision/tree/main/model/GGLNet)])  
+6. GGL-Net ([[paper](https://ieeexplore.ieee.org/abstract/document/10230271)] [[code](https://github.com/YuChuang1205/MSDA-Net)])  
 7. MSDA-Net ([[Paper/arXiv](https://arxiv.org/abs/2406.02037)] [[code](https://github.com/YuChuang1205/MSDA-Net)])    
 8. LR-Net ([[Paper/arXiv](https://arxiv.org/abs/2408.02780)] [[code](https://github.com/YuChuang1205/LR-Net)])
 
