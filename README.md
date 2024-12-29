@@ -94,7 +94,8 @@ The dataset used in this manuscript is the dataset provided by the competition. 
 
 ## Citation
 
-Please cite our paper in your publications if our work helps your research. <br>
+If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **LR-Net** if it benefits your project. <br>  
+
 BibTeX reference is as follows:
 ```
 @misc{yu2024lrnetlightweightrobustnetwork,
